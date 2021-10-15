@@ -29,7 +29,10 @@ run my_cool_program.asm in RARS
 Describe the content of each file of your application: e.g.
 
 src/main.c   # Main file of program
+
 src/main.asm # compiled version of main.c for RV32IM
+
 src/featureA.asm # A specific feature called in main
+
 test/test1.asm - test9.asm # 9 unit tests for featureA
 
